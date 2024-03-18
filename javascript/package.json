@@ -41,8 +41,8 @@
         "watch": "tsc -b --watch"
     },
     "dependencies": {
-        "@jupyterlab/application": "^4.0.0",
-        "@jupyterlab/nbformat": "^3.0.0 || ^4.0.0-alpha.21 || ^4.0.0",
+        "@jupyterlab/application": "^4.2.0-alpha.1",
+        "@jupyterlab/nbformat": "^3.0.0 || ^4.0.0-alpha.21 || ^4.2.0-alpha.1",
         "@lumino/coreutils": "^1.11.0 || ^2.0.0",
         "@lumino/disposable": "^1.10.0 || ^2.0.0",
         "@lumino/signaling": "^1.10.0 || ^2.0.0",
